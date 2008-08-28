@@ -1,4 +1,4 @@
-# PHI-Mini Mart - ERD Scheme.
+#summary PHI-Mini Mart - ERD Scheme Diagram.
 
 = PHI Mini Mart Skema ERD =
 
