@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
+#PHI-Mini Mart - ERD Scheme.
 
 = PHI Mini Mart Skema ERD =
 
 Berikut adalah skema ERD (Entity Relationship Diagram) dari data contoh PHI Mini Mart.
-
-
