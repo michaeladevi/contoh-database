@@ -3,3 +3,5 @@
 = PHI Mini Mart Skema ERD =
 
 Berikut adalah skema ERD (Entity Relationship Diagram) dari data contoh PHI Mini Mart.
+
+[Todo]
