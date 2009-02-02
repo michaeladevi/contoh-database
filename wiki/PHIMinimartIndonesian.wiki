@@ -3,7 +3,17 @@
 
 = Pengenalan =
 
-Contoh database ini dibuat dengan skenario proses bisnis di jaringan retail yang bernama PHI-Minimart dan tersebar di seluruh Indonesia.
+*"PHI-Minimart"* adalah proyek pembuatan contoh database yang pertama dengan  menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
+
+Tujuan akhir dari proyek ini juga ingin menghasilkan contoh database untuk berbagai RDBMS sehingga dapat dimanfaatkan para profesional dan developer IT, dosen, pelajar, dan pelaku bisnis di Indonesia untuk mempelajari dan merancang sistem manajemen data dengan lebih baik. 
+
+Pada tanggal 2 February 2009 ini kami merilis versi 0.1 PHI-Minimart. Versi ini merupakan versi awal dari perancangan dan isi yang lebih kompleks. 
+
+Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan sangat sederhana namun cukup digunakan untuk melihat data dalam berbagai dimensi terutama jika dikonversi menjadi skema OLAP, yaitu :
+  * dimensi waktu
+  * performa cabang
+  * performa karyawan 
+  * performa produk
 
 
 = Roadmap =
