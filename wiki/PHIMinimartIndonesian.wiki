@@ -1,5 +1,5 @@
 #summary PHI-Minimart.
-#labels Phase-Design
+#labels Featured
 
 = Pengenalan =
 
@@ -32,7 +32,7 @@ Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan san
 
 Todo
 
-= Skema ERD =
+= Diagram Struktur Table / EER (Extended Entity-Relationship) =
 
 http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
 
