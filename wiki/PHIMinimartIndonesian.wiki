@@ -3,7 +3,7 @@
 
 = Pengenalan =
 
-*"PHI-Minimart"* adalah proyek pembuatan contoh database yang pertama dengan  menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
+*"PHI-Minimart"* adalah proyek pembuatan contoh database pertama dari [http://www.sampledata.org sampledata.org]. Contoh database ini menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
 
 Tujuan akhir dari proyek ini juga ingin menghasilkan contoh database untuk berbagai RDBMS sehingga dapat dimanfaatkan para profesional dan developer IT, dosen, pelajar, dan pelaku bisnis di Indonesia untuk mempelajari dan merancang sistem manajemen data dengan lebih baik. 
 
