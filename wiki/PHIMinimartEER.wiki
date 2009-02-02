@@ -1,9 +1,5 @@
 #summary PHI-Mini Mart - EER Scheme Diagram.
 #labels Featured,PHI-Minimart
-= DAFTAR ISI =
-<wiki:toc max_depth="2" />
-
-= PHI Mini Mart Skema EER =
 
 == Version 0.1 ==
 
