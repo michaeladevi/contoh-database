@@ -20,13 +20,13 @@ Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan san
 
 == Tahap 1 ==
   * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
-  * Generasi data untuk transaksi penjualan sederhana
+  * Generasi data untuk transaksi penjualan sederhana (tanpa nomor faktur) menggunakan [http://kettle.pentaho.org Kettle]
   * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
 
 == Tahap 2 ==
   * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
-  * Manajemen order yang lengkap mulai pemesanan, 
-  * Generasi data 
+  * Manajemen order yang lengkap mulai pemesanan, pembelian, pengantaran / delivery, dan _inventory_
+  * Generasi data transaksi _supply chain_ menggunakan [http://kettle.pentaho.org Kettle]
 
 == Tahap 3 ==
 
