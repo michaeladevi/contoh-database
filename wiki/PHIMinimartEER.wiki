@@ -1,5 +1,5 @@
 #summary PHI-Mini Mart - EER Scheme Diagram.
-#labels Featured
+#labels Featured,PHI-Minimart
 
 = PHI Mini Mart Skema EER =
 
