@@ -1,7 +1,7 @@
-#summary PHI-Mini Mart - ERD Scheme Diagram.
+#summary PHI-Mini Mart - EER Scheme Diagram.
 #labels Featured
 
-= PHI Mini Mart Skema ERD =
+= PHI Mini Mart Skema EER =
 
 == Version 0.1 ==
 
