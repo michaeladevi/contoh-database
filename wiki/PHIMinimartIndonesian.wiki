@@ -18,19 +18,19 @@ Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan san
 
 = Roadmap =
 
-Tahap 1
+== Tahap 1 ==
   * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
   * Generasi data untuk transaksi penjualan sederhana
   * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
 
-Tahap 2
+== Tahap 2 ==
   * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
   * Manajemen order yang lengkap mulai pemesanan, 
   * Generasi data 
 
-Tahap 3
+== Tahap 3 ==
 
-[Todo]
+Todo
 
 = Skema ERD =
 
