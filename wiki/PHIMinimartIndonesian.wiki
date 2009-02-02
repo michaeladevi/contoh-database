@@ -1,6 +1,8 @@
 #summary PHI-Minimart.
 #labels Featured,PHI-Minimart
 
+<wiki:toc max_depth="2" />
+
 = Pengenalan =
 
 *"PHI-Minimart"* adalah proyek pembuatan contoh database pertama dari [http://www.sampledata.org sampledata.org]. Contoh database ini menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
