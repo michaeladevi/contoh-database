@@ -1,14 +1,31 @@
-#summary Penjelasan mengenai contoh data PHI-Minimart.
+#summary PHI-Minimart.
 #labels Phase-Design
 
 = Pengenalan =
 
-Add your content here.
+Contoh database ini dibuat dengan skenario proses bisnis di jaringan retail yang bernama PHI-Minimart dan tersebar di seluruh Indonesia.
 
 
-= Details =
+= Roadmap =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Tahap 1
+  * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
+  * Generasi data untuk transaksi penjualan sederhana
+  * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
+
+Tahap 2
+  * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
+  * Manajemen order yang lengkap mulai pemesanan, 
+  * Generasi data 
+
+Tahap 3
+
+[Todo]
+
+= Skema ERD =
+
+http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
+
+= Download =
+
+  * Untuk versi MySQL 5 download [http://sampledata.googlecode.com/files/phi_minimart_mysql_v0.1.tar.gz disini].
