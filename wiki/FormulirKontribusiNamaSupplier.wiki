@@ -2,4 +2,8 @@
 
 = Formulir =
 
-<iframe src="https://spreadsheets.google.com/embeddedform?key=p57g_HSFUjsR9e4yB7iMUaQ" width="310" height="1499" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Formulir Usulan Nama Supplier" />
+  <Content type="url" href="https://spreadsheets.google.com/embeddedform?key=p57g_HSFUjsR9e4yB7iMUaQ" />
+</Module>
