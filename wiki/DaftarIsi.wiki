@@ -1,4 +1,5 @@
 #summary Daftar Isi Wiki SampleData.
+#labels Featured
 
   * [PHIMinimartIndonesian PHI-Minimart]
     * [PHIMinimartEER Skema EER]
