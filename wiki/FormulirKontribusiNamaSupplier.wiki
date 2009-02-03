@@ -1,5 +1,5 @@
 #summary Formulir Kontribusi Nama Supplier.
-#labels PHI-Minimart
+#labels PHI-Minimart,Featured
 #sidebar DaftarIsi
 =Daftar Isi=
 <wiki:toc max_depth="1" />
