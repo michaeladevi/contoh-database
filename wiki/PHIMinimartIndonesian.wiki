@@ -1,7 +1,7 @@
 #summary PHI-Minimart.
 #labels Featured,PHI-Minimart
 == Daftar Isi ==
-<wiki:toc max_depth="2" />
+<wiki:toc max_depth="3" />
 
 == Pengenalan ==
 
