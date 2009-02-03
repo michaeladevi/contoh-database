@@ -33,17 +33,17 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
 
 == Roadmap ==
 
-=== Tahap 1 ===
+===Tahap 1===
   * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
   * Generasi data untuk transaksi penjualan sederhana (tanpa nomor faktur) menggunakan [http://kettle.pentaho.org Kettle]
   * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
 
-=== Tahap 2 ===
+===Tahap 2===
   * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
   * Manajemen order yang lengkap mulai pemesanan, pembelian, pengantaran / delivery, dan _inventory_
   * Generasi data transaksi _supply chain_ menggunakan [http://kettle.pentaho.org Kettle]
 
-=== Tahap 3 ===
+===Tahap 3===
 
 Todo
 
@@ -51,6 +51,6 @@ Todo
 
 http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
 
-= Download =
+== Download ==
 
   * Untuk versi MySQL 5 download [http://sampledata.googlecode.com/files/phi_minimart_mysql_v0.1.tar.gz disini].
