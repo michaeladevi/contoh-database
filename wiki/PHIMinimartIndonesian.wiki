@@ -17,7 +17,7 @@ Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan san
   * performa karyawan 
   * performa produk
 
-= Deskripsi Tabel =
+== Deskripsi Tabel ==
 
 PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * *Tabel Master*
@@ -31,19 +31,19 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * *Tabel Transaksi*
     * *tr_penjualan* : merupakan transaksi penjualan yang mencatat tanggal transaksi, di cabang mana transaksi dilakukan
 
-= Roadmap =
+== Roadmap ==
 
-== Tahap 1 ==
+=== Tahap 1 ===
   * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
   * Generasi data untuk transaksi penjualan sederhana (tanpa nomor faktur) menggunakan [http://kettle.pentaho.org Kettle]
   * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
 
-== Tahap 2 ==
+=== Tahap 2 ===
   * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
   * Manajemen order yang lengkap mulai pemesanan, pembelian, pengantaran / delivery, dan _inventory_
   * Generasi data transaksi _supply chain_ menggunakan [http://kettle.pentaho.org Kettle]
 
-== Tahap 3 ==
+=== Tahap 3 ===
 
 Todo
 
