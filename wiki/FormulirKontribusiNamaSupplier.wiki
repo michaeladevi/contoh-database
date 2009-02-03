@@ -6,7 +6,7 @@
 
 = Pendahuluan =
 
-Sampai saat ini nama vendor untuk PHI-Minimart masih berupa format *!Supplier-Kota-NomorUrut*. Untuk contohnya dapat dilihat di  file [http://code.google.com/p/sampledata/source/browse/trunk/phi-minimart/phi_integration_supplier.csv?r=4 phi_integration_supplier.csv Release 4]
+Sampai saat ini nama vendor untuk PHI-Minimart masih berupa format *Supplier-Kota-!NomorUrut*. Untuk contohnya dapat dilihat di  file [http://code.google.com/p/sampledata/source/browse/trunk/phi-minimart/phi_integration_supplier.csv?r=4 phi_integration_supplier.csv Release 4]
 
 ----
 http://lh6.ggpht.com/_ofnZnO0EGzU/SYhQ6Q5cvpI/AAAAAAAABDE/7TvmotMke_4/s720/masalah_nama_supplier.png
