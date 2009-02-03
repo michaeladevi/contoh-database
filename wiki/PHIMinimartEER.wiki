@@ -1,5 +1,6 @@
 #summary PHI-Mini Mart - EER Scheme Diagram.
 #labels Featured,PHI-Minimart
+#sidebar DaftarIsi
 
 == Version 0.1 ==
 
