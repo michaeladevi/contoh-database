@@ -9,4 +9,4 @@
 
 ----
 
-<table align="center" border=0><tr><td><img src="http://lh3.ggpht.com/_ofnZnO0EGzU/SYhehEcWSVI/AAAAAAAABDM/xER74Heu69U/s144/phi_cube.gif" /></td></tr></table>
+<table align="center" border=0><tr><td><img src="http://lh3.ggpht.com/_ofnZnO0EGzU/SYhehEcWSVI/AAAAAAAABDM/xER74Heu69U/s144/phi_cube.gif"></td></tr></table>
