@@ -1,2 +1,20 @@
 #summary Formulir Kontribusi Nama Supplier.
+
+= Pendahuluan =
+
+Sampai saat ini nama vendor untuk PHI-Minimart masih berupa format "Supplier [Kota]-[NomorUrut]" . 
+
+Untuk memperbaiki data ini supaya lebih "natural" kami butuh kontribusi text "nama depan, tengah dan akhir" dari supplier  yang nantinya akan dikombinasi silang dengan pasangan nama lainnya.
+
+Contoh : 
+Kontribusi 1 : Galaksi Bima Sakti
+Kontribusi 2 : Bumi Planet Hijau
+
+Kemungkinan Kombinasi :
+Kombinasi 1 : Galaksi Planet Sakti
+Kombinasi 2 : Planet Bima Hijau
+dstnya.....
+
+= Formulir =
+
 <wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1400"/>
