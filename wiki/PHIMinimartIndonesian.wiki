@@ -47,7 +47,7 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
 
 Todo
 
-= Diagram Struktur Table / EER (Extended Entity-Relationship) =
+== Diagram Struktur Table / EER (Extended Entity-Relationship) ==
 
 http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
 
