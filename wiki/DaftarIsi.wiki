@@ -6,3 +6,7 @@
     * [PHIMinimartEER Skema EER]
     * [FormulirKontribusiNamaSupplier Kontribusi : Nama Supplier]
   * [InginKontribusi Kontribusi ke Proyek]
+
+----
+
+http://i290.photobucket.com/albums/ll252/ferisphi/phi_cube.gif
