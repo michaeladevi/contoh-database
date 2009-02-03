@@ -15,13 +15,13 @@ http://lh6.ggpht.com/_ofnZnO0EGzU/SYhQ6Q5cvpI/AAAAAAAABDE/7TvmotMke_4/s720/masal
 Untuk memperbaiki data ini supaya lebih "natural" kami butuh kontribusi text "nama depan, tengah dan akhir" dari supplier  yang nantinya akan dikombinasi silang dengan pasangan nama lainnya.
 
 Contoh : 
-Kontribusi 1 : Galaksi Bima Sakti
-Kontribusi 2 : Bumi Planet Hijau
+  * Kontribusi 1 : Galaksi Bima Sakti
+  * Kontribusi 2 : Bumi Planet Hijau
 
 Kemungkinan Kombinasi :
-Kombinasi 1 : Galaksi Planet Sakti
-Kombinasi 2 : Planet Bima Hijau
-dstnya.....
+  * Kombinasi 1 : Galaksi Planet Sakti
+  * Kombinasi 2 : Planet Bima Hijau
+  * dstnya.....
 
 = Formulir Pengisian =
 
