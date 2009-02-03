@@ -17,3 +17,15 @@ Untuk memulai kontribusi silahkan bergabung terlebih dahulu di user group proyek
 Perkenalkan diri Anda di dalam group dan kemudian jelaskan modul data dimana Anda ingin terlibat di dalamnya. Apakah ingin terlibat di pembuatan data, pembetulan data, menyumbangkan ide, dan sebagainya.
 
 Setelah itu akan saya proses apakah itu bisa masuk ke roadmap, isu atau menambahkan Anda sebagai anggota project.
+
+= Kebutuhan Kontribusi Proyek =
+
+  * Porting database ke berbagai format database
+    * SQL Server
+    * Postgresql
+    * Oracle
+    * HSQLDB
+    * MonetDB
+    * MS Access
+    * Firebird
+  * Membantu pengembangan logika generasi data di modul rantai pasokan (pemesanan, pembelian, inventori, penjualan, retur)
