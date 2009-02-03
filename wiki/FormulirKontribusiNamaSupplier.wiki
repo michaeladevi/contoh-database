@@ -25,4 +25,4 @@ Kemungkinan Kombinasi :
 
 = Formulir Pengisian =
 
-<wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1400"/>
+<wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1100"/>
