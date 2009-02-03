@@ -1,5 +1,6 @@
 #summary PHI-Minimart.
 #labels Featured,PHI-Minimart
+#sidebar DaftarIsi
 == Daftar Isi ==
 <wiki:toc max_depth="3" />
 
