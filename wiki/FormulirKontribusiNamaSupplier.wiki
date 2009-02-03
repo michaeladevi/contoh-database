@@ -1,4 +1,6 @@
 #summary Formulir Kontribusi Nama Supplier.
+#sidebar DaftarIsi
+<wiki:toc max_depth="1" />
 
 = Pendahuluan =
 
@@ -19,6 +21,6 @@ Kombinasi 1 : Galaksi Planet Sakti
 Kombinasi 2 : Planet Bima Hijau
 dstnya.....
 
-= Formulir =
+= Formulir Pengisian =
 
 <wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1400"/>
