@@ -1,5 +1,4 @@
 #summary Penjelasan Cara Kontribusi di Proyek SampleData.org.
-#labels Featured
 #sidebar DaftarIsi
 = Daftar Isi =
 <wiki:toc max_depth="1" />
