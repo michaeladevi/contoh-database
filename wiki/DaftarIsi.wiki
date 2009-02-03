@@ -5,6 +5,6 @@
   * [PHIMinimartIndonesian PHI-Minimart]
     * [PHIMinimartEER Skema EER]
     * [FormulirKontribusiNamaSupplier Kontribusi : Nama Supplier]
-  * [InginKontribusi Kontribusi ke Proyek]
+  * [InginKontribusi Kontribusi]
 
 ----
