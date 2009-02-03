@@ -2,4 +2,4 @@
 
 = Formulir =
 
-<wiki:gadget url="http://code.google.com/p/sampledata/gadget/formulirkontribusinamasupplier.xml" />
+<wiki:gadget url="http://code.google.com/p/sampledata/source/browse/gadget/formulirkontribusinamasupplier.xml" />
