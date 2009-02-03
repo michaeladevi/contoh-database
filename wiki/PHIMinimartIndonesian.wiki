@@ -1,10 +1,10 @@
 #summary PHI-Minimart.
 #labels Featured,PHI-Minimart
 #sidebar DaftarIsi
-== Daftar Isi ==
+=Daftar Isi=
 <wiki:toc max_depth="3" />
 
-== Pengenalan ==
+=Pengenalan=
 
 *"PHI-Minimart"* adalah proyek pembuatan contoh database pertama dari [http://www.sampledata.org sampledata.org]. Contoh database ini menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
 
@@ -18,7 +18,7 @@ Untuk saat ini modul ini hanya berfokus di modul penjualan dengan pendekatan san
   * performa karyawan 
   * performa produk
 
-== Deskripsi Tabel ==
+=Deskripsi Tabel=
 
 PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * *Tabel Master*
@@ -32,7 +32,7 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * *Tabel Transaksi*
     * *tr_penjualan* : merupakan transaksi penjualan yang mencatat tanggal transaksi, di cabang mana transaksi dilakukan
 
-== Roadmap ==
+=Roadmap / Tahap Pengembangan=
 
 ===Tahap 1===
   * Penyelesaian *_master table_* yang berorientasi ke penjualan (produk, master harga, cabang / toko, dan lain-lain)
@@ -52,6 +52,6 @@ Todo
 
 http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
 
-== Download ==
+=Download=
 
   * Untuk versi MySQL 5 download [http://sampledata.googlecode.com/files/phi_minimart_mysql_v0.1.tar.gz disini].
