@@ -1,5 +1,2 @@
 #summary Formulir Kontribusi Nama Supplier.
-
-= Formulir =
-
-<wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="600" height="1400"/>
+<wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1400"/>
