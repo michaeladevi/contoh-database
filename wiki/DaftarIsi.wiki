@@ -9,6 +9,10 @@
 
 ----
 
-<table align="center" border=0><tr><td>
+<table align="center" border="0">
+<tr>
+<td>
 http://lh3.ggpht.com/_ofnZnO0EGzU/SYhehEcWSVI/AAAAAAAABDM/xER74Heu69U/s144/phi_cube.gif
-</td></tr></table>
+</td>
+</tr>
+</table>
