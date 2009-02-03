@@ -2,8 +2,4 @@
 
 = Formulir =
 
-<?xml version="1.0" encoding="UTF-8" ?> 
-<Module>
-  <ModulePrefs title="Formulir Usulan Nama Supplier" />
-  <Content type="url" href="https://spreadsheets.google.com/embeddedform?key=p57g_HSFUjsR9e4yB7iMUaQ" />
-</Module>
+<wiki:gadget url="http://code.google.com/p/sampledata/gadget/formulirkontribusinamasupplier.xml" />
