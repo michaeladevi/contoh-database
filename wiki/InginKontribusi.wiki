@@ -12,7 +12,7 @@ Dengan bergabung ke proyek ini, ada beberapa keuntungan yang akan rekan-rekan da
 
 = Kebutuhan Proyek =
 
-  * Porting database ke berbagai format database
+  * Porting database untuk :
     * SQL Server
     * Postgresql
     * Oracle
