@@ -1,4 +1,4 @@
-#summary PHI-Minimart.
+#summary Halaman awal contoh data PHI-Minimart.
 #labels PHI-Minimart
 #sidebar DaftarIsi
 =Daftar Isi=
