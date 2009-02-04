@@ -1,5 +1,6 @@
 #summary Penjelasan Metode Perhitungan Harga Jual, Modal dan Biaya di PHI-Minimart.
 #labels Phase-Implementation
+#sidebar DaftarIsi
 
 = Metode Perhitungan =
 
