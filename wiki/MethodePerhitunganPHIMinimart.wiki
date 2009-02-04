@@ -1,0 +1,12 @@
+#summary Penjelasan Metode Perhitungan Harga Jual, Modal dan Biaya di PHI-Minimart.
+#labels Phase-Implementation
+
+= Metode Perhitungan =
+
+  * Harga Acuan Pokok
+  * Metode Persentasi Inflasi Tetap
+  * Koefisien Harga Jual, Modal dan Biaya Produk / Cabang / Hari
+
+= Penjelasan =
+
+To Do....
