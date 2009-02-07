@@ -2,8 +2,10 @@
 #labels PHI-Minimart
 #sidebar DaftarIsi
 
-*Daftar Isi*
+=Daftar Isi=
 <wiki:toc max_depth="3" />
+
+Catatan: Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 pada saat melihat halaman ini.
 
 =Pengenalan=
 
