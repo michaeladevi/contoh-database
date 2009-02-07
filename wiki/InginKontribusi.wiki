@@ -8,7 +8,8 @@
 
 Dengan bergabung ke proyek ini, ada beberapa keuntungan yang akan rekan-rekan dapatkan :
   * Pengalaman menggunakan utilitas kolaborasi online / open source seperti bagaimana mengambil dan membandingkan *_source code_*, melaporkan bug - terlihat sepele tapi penting -, membuat dokumentasi dan mendapatkan respon, dan sebagainya.
-  * Dengan pengalaman di atas maka kita dengan mudah bergabung dan mengerti proyek open source lainnya yang makin populer.
+  * Bereksperimen dengankerja kelompok yang dapat diterapkan di organisasi Anda sendiri.
+  * Menerapkan pengalaman di atas dengan bergabung ke proyek open source lainnya yang populer.
   * Saling belajar mendapatkan pengertian yang mendalam dan kontinu dari merancang dan menghasilkan sumber daya yang paling penting dari sistem informasi, yaitu *data*, *skema data* dan *informasi yang bisa dihasilkan*.
 
 = Kebutuhan Proyek Saat Ini =
