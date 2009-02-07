@@ -1,5 +1,5 @@
 #summary Penjelasan Cara Kontribusi di Proyek SampleData.org.
-#labels PHI-Minimart
+#labels Phase-Requirements
 #sidebar DaftarIsi
 = Daftar Isi =
 <wiki:toc max_depth="1" />
