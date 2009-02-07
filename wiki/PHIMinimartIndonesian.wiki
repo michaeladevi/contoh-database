@@ -1,4 +1,4 @@
-#summary Halaman awal contoh data PHI-Minimart.
+#summary Contoh database PHI-Minimart - jaringan retailer Indonesia.
 #labels PHI-Minimart
 #sidebar DaftarIsi
 
