@@ -5,7 +5,8 @@
 =Daftar Isi=
 <wiki:toc max_depth="3" />
 
-Catatan: Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 pada saat melihat halaman ini.
+Catatan: 
+Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 pada saat melihat halaman ini. Atau gunakan browser Firefox 3 dan Google Chrome untuk tampilan yang lebih baik.
 
 =Pengenalan=
 
