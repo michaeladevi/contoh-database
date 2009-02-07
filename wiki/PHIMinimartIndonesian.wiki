@@ -44,6 +44,7 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * Perbaikan nama supplier supaya lebih "natural"
   * Manajemen order yang lengkap mulai pemesanan, pembelian, pengantaran / delivery, dan _inventory_
   * Generasi data transaksi _supply chain_ menggunakan [http://kettle.pentaho.org Kettle]
+  * Memindahkan hosting project ke http://code.google.com/p/contoh-database
 
 ==Tahap 3==
   * Penyempurnaan transaksi
