@@ -10,10 +10,9 @@ Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 p
 
 =Pendahuluan=
 
-*"PHI-Minimart"* adalah contoh database menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. 
+*"PHI-Minimart"* adalah contoh database menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. Pada tanggal 2 February 2009 ini kami merilis PHI-Minimart versi 0.1. 
 
-
-Pada tanggal 2 February 2009 ini kami merilis versi 0.1 PHI-Minimart. Pada versi ini fokus contoh data adalah pada modul penjualan sangat sederhana namun cukup digunakan untuk melihat data dalam berbagai dimensi yaitu :
+Pada versi ini fokus contoh data adalah pada modul penjualan sangat sederhana namun cukup digunakan untuk melihat data dalam berbagai dimensi yaitu :
   * dimensi waktu
   * performa cabang
   * performa karyawan 
