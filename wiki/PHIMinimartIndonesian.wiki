@@ -2,7 +2,7 @@
 #labels PHI-Minimart
 #sidebar DaftarIsi
 
-=Daftar Isi=
+*Daftar Isi*
 <wiki:toc max_depth="3" />
 
 =Pengenalan=
