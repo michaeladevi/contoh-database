@@ -13,7 +13,7 @@ Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 p
 <table border="0">
 <tr>
 <td valign="top">
-*"PHI-Minimart"* adalah contoh database menggunakan skenario retailer bernama *PHI-Minimart* yang memiliki cabang yang tersebar di seluruh Indonesia. Pada tanggal 2 February 2009 ini kami merilis PHI-Minimart versi 0.1. 
+*"PHI-Minimart"* adalah contoh database menggunakan skenario retailer bernama PHI-Minimart yang memiliki cabang yang tersebar di seluruh Indonesia. Pada tanggal 2 February 2009 ini kami merilis PHI-Minimart versi 0.1. 
 </td>
 <td>
 [http://code.google.com/p/sampledata/wiki/FormulirKontribusiNamaSupplier http://lh3.ggpht.com/_ofnZnO0EGzU/SY24VMBBZRI/AAAAAAAABDs/vE-BN166I6s/s288/butuh_kontributor_box.png]
