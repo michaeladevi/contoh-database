@@ -1,4 +1,5 @@
 #summary Penjelasan Cara Kontribusi di Proyek SampleData.org.
+#labels PHI-Minimart
 #sidebar DaftarIsi
 = Daftar Isi =
 <wiki:toc max_depth="1" />
@@ -10,7 +11,7 @@ Dengan bergabung ke proyek ini, ada beberapa keuntungan yang akan rekan-rekan da
   * Dengan pengalaman di atas maka kita dengan mudah bergabung dan mengerti proyek open source lainnya yang makin populer.
   * Saling belajar mendapatkan pengertian yang mendalam dan kontinu dari merancang dan menghasilkan sumber daya yang paling penting dari sistem informasi, yaitu *data*, *skema data* dan *informasi yang bisa dihasilkan*.
 
-= Kebutuhan Proyek =
+= Kebutuhan Proyek Saat Ini =
 
   * Porting database untuk :
     * SQL Server
@@ -20,6 +21,7 @@ Dengan bergabung ke proyek ini, ada beberapa keuntungan yang akan rekan-rekan da
     * MonetDB
     * MS Access
     * Firebird
+  * [http://code.google.com/p/sampledata/wiki/FormulirKontribusiNamaSupplier Kontribusi contoh nama supplier]
   * Membantu pengembangan logika generasi data di modul rantai pasokan (pemesanan, pembelian, inventori, penjualan, retur)
 
 = Cara Kontribusi =
