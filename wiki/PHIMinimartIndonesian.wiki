@@ -10,23 +10,6 @@ Gunakan _Compatibility View_ jika Anda menggunakan browser Internet Explorer 8 p
 
 =Pendahuluan=
 
-== Selamat Datang di Proyek !SampleData.org ==
-
-<table border="0">
-<tr>
-<td>
-http://lh3.ggpht.com/_ofnZnO0EGzU/SYhehEcWSVI/AAAAAAAABDM/xER74Heu69U/s144/phi_cube.gif
-</td>
-<td valign="top">
-Proyek ini adalah inisiatif dari [http://www.phi-integration.com PHI-Integration.com] dan merupakan bagian dari [http://www.sampledata.org sampledata.org].
-
-Tujuan akhir dari proyek ini adalah menghasilkan contoh database untuk berbagai produk RDBMS (_Relational Database Management System_) sehingga dapat dimanfaatkan semua kalangan masyarakat di Indonesia mulai dari para profesional dan _developer_ IT, guru, pelajar, dosen, mahasiswa, kalangan akademis, sipil dan militer, pelaku bisnis dan sebagainya. 
-</td>
-</tr>
-</table>
-
-== PHI-Minimart - Rilis V 0.1 == 
-
 <table border="0">
 <tr>
 <td valign="top">
