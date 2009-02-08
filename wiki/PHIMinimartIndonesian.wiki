@@ -2,10 +2,10 @@
 #labels PHI-Minimart
 #sidebar DaftarIsi
 
-http://lh6.ggpht.com/_ofnZnO0EGzU/SY7XH87I1jI/AAAAAAAABEY/njeGyBpLMdU/s288/phi_minimart_logo.png
-
 =Daftar Isi=
 <wiki:toc max_depth="3" />
+
+http://lh6.ggpht.com/_ofnZnO0EGzU/SY7XH87I1jI/AAAAAAAABEY/njeGyBpLMdU/s288/phi_minimart_logo.png
 
 
 Catatan: 
