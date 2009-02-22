@@ -20,7 +20,8 @@ Dengan bergabung ke proyek ini, ada beberapa keuntungan yang akan rekan-rekan da
     * Oracle
     * HSQLDB
     * MonetDB
-    * MS Access
+    * MS Access - Sudah Selesai / Done !
+    * MS Excel - Sudah Selesai / Done !
     * Firebird
   * [http://code.google.com/p/sampledata/wiki/FormulirKontribusiNamaSupplier Kontribusi contoh nama supplier]
   * Membantu pengembangan logika generasi data di modul rantai pasokan (pemesanan, pembelian, inventori, penjualan, retur)
