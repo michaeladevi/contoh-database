@@ -6,13 +6,15 @@
 
 = Perkenalan =
 
-Konsep 1000 dari 1 adalah gerakan sistem kerja massal dimana penyelesaian sesuatu selalu dimulai dari 1 orang (diri kita sendiri) dengan dibantu 1, 10, 1.000, atau malah 100.000 orang lainnya.
+Konsep 1000 dari 1 adalah gerakan sistem kerja massal dimana penyelesaian sesuatu selalu dimulai dari 1 orang (diri kita sendiri) dengan dibantu oleh 1, 10, 1.000, atau malah 100.000 orang lainnya.
 
-Dengan keinginan berkontribusi sekecil apapun di terbentuk di diri setiap orang dan dengan didukung infrastruktur internet maka 1.000 kontribusi tentunya sangat berarti.
+Dengan terbentuknya semangat untuk "*memulai* dan *bersama menyelesaikan* hal-hal sekecil apapun" di diri kita maka kontribusi 1.000 tentunya sangat berarti.
+
+Khususnya di dunia IT banyak infrastruktur sudah sangat mendukung untuk mewujudkan gerakan seperti ini. 
 
 Gerakan ini sangat penting di beberapa proyek yang membutuhkan kontribusi besar seperti di proyek pembentukan contoh database [http://www.sampledata.org sampledata.org] ini. Setiap fragmen perbaikan dan sumbangan kecil data akan membentuk contoh data yang makin besar, beragam, akurat dan akhirnya memberi kegunaan bagi kita.
 
-Konsep ini tentunya terdengar sangat familiar di dalam gerakan open source, namun kami dari PHI-Integration ingin menyebut sistem kerja ini dengan hal ini sehingga tidak terdengar klise atau terasa lebih segar.
+Konsep ini tentunya terdengar sangat familiar di dalam gerakan *open source*, namun kami dari PHI-Integration ingin menyebut sistem kerja ini dengan hal ini sehingga tidak terdengar klise atau terasa lebih segar.
 
 = Apa bentuk kontribusi 1000 dari 1 ini ? =
 
