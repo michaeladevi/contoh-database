@@ -2,6 +2,8 @@
 #labels PHI-Minimart
 #sidebar DaftarIsi
 
+<wiki:toc max_depth="1" />
+
 = Perkenalan =
 
 Konsep 1000 dari 1 adalah gerakan sistem kerja dengan meminjam konsep gotong royong selalu dimulai dari 1 orang yaitu diri kita sendiri.
@@ -26,7 +28,7 @@ Tidak terpikirkan ? Baiklah... berikut ini adalah beberapa alternatif kontribusi
   * Membuat tandingan / forking project ini
   * Dan lain sebagainya
 
-= Jadi, ingin terlibat ? =
+= Terlibat ? Bagaimana Caranya ?=
 
 Silahkan gabung ke group kami di http://groups.google.com/group/contoh-data dengan mengirimkan email kosong ke contoh-data-subscribe@googlegroups.com dan nyatakan minat atau kesulitan Anda untuk terlibat di proyek ini.
 
@@ -34,5 +36,5 @@ Mari kita beralih dari mental *konsumtif = mental pengen download aja* menjadi *
 
 Salam Hangat,
 
-Feris
+Feris <br />
 Inisiator Project
