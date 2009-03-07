@@ -6,15 +6,16 @@
 
 = Perkenalan =
 
-Konsep 1000 dari 1 adalah gerakan sistem kerja massal dimana penyelesaian sesuatu selalu dimulai dari 1 orang (diri kita sendiri) dengan dibantu oleh 1, 10, 1.000, atau malah 100.000 orang lainnya.
+Konsep 1000 dari 1 adalah gerakan sistem kerja massal dimana :
+  * *penyelesaian* sesuatu selalu dimulai dari *1 orang* (diri kita sendiri) 
+  * *dengan dibantu....*
+  * 1, 10, *1.000*, atau malah 100.000 orang lainnya.
 
-Dengan terbentuknya semangat untuk "*memulai* dan *bersama menyelesaikan* hal-hal sekecil apapun" di diri kita maka kontribusi 1.000 tentunya sangat berarti.
+Dengan terbentuknya semangat untuk "*memulai* dan *bersama menyelesaikan* hal-hal sekecil apapun" di diri kita maka kontribusi 1.000 orang dengan sikap tersebut hasilnya pasti akan berwujud dan sangat berarti.
 
-Khususnya di dunia IT banyak infrastruktur sudah sangat mendukung untuk mewujudkan gerakan seperti ini. 
+Gerakan ini sangat penting di beberapa proyek yang membutuhkan kontribusi besar seperti pada proyek pembentukan contoh database [http://www.sampledata.org sampledata.org] ini. Setiap fragmen perbaikan dan sumbangan data sekecil apapun akan membentuk contoh data yang makin besar, beragam/bervariasi, akurat yang pada akhirnya akan banyak memberi manfaat bagi kita.
 
-Gerakan ini sangat penting di beberapa proyek yang membutuhkan kontribusi besar seperti di proyek pembentukan contoh database [http://www.sampledata.org sampledata.org] ini. Setiap fragmen perbaikan dan sumbangan kecil data akan membentuk contoh data yang makin besar, beragam, akurat dan akhirnya memberi kegunaan bagi kita.
-
-Konsep ini tentunya terdengar sangat familiar di dalam gerakan *open source*, namun kami dari PHI-Integration ingin menyebut sistem kerja ini dengan hal ini sehingga tidak terdengar klise atau terasa lebih segar.
+Konsep gotong-royong ini tentunya terdengar sangat familiar di dalam dunia IT yang dikenal dengan gerakan *open source*, namun kami dari PHI-Integration ingin menyebut sistem kerja ini dengan nama lain sehingga tidak terdengar klise atau terasa lebih segar.
 
 = Apa bentuk kontribusi 1000 dari 1 ini ? =
 
@@ -28,9 +29,11 @@ Tidak terpikirkan ? Baiklah... berikut ini adalah beberapa alternatif kontribusi
   * Memberikan ide kepada project owner bagaimana baiknya suatu hal dilakukan
   * Memberitahukan atau mangajak partisipasi untuk proyek ini kepada teman-teman
   * Membuat tandingan / forking project ini
-  * Dan lain sebagainya
+  * Melakukan hack dan menginformasikan kepada publik dan juga owner :p
+  * Menggunakannya sehari-hari
+  * dan lain sebagainya
 
-= Terlibat ? Bagaimana Caranya ?=
+= Ingin Terlibat ? Bagaimana Caranya ?=
 
 Silahkan gabung ke group kami di http://groups.google.com/group/contoh-data dengan mengirimkan email kosong ke contoh-data-subscribe@googlegroups.com dan nyatakan minat atau kesulitan Anda untuk terlibat di proyek ini.
 
@@ -39,4 +42,3 @@ Mari kita beralih dari mental *konsumtif = mental pengen download aja* menjadi *
 Salam Hangat,
 
 Feris <br />
-Inisiator Project
