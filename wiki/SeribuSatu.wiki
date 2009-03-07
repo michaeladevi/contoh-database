@@ -17,7 +17,7 @@ Gerakan ini sangat penting di beberapa proyek yang membutuhkan kontribusi besar 
 
 Konsep gotong-royong ini tentunya terdengar sangat familiar di dalam dunia IT yang dikenal dengan gerakan *open source*, namun kami dari PHI-Integration ingin menyebut sistem kerja ini dengan nama lain sehingga tidak terdengar klise atau terasa lebih segar.
 
-= Apa bentuk kontribusi 1000 dari 1 ini ? =
+= Bentuk Kontribusi=
 
 Sangat beragam tentunya, sesuai dengan keahlian kita masing-masing. 
 
@@ -33,7 +33,7 @@ Tidak terpikirkan ? Baiklah... berikut ini adalah beberapa alternatif kontribusi
   * Menggunakannya sehari-hari
   * dan lain sebagainya
 
-= Ingin Terlibat ? Bagaimana Caranya ?=
+= Bagaimana Caranya Terlibat ?=
 
 Silahkan gabung ke group kami di http://groups.google.com/group/contoh-data dengan mengirimkan email kosong ke contoh-data-subscribe@googlegroups.com dan nyatakan minat atau kesulitan Anda untuk terlibat di proyek ini.
 
