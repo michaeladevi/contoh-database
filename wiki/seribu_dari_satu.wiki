@@ -1,5 +1,5 @@
+#summary Konsep 1000 dari 1 PHI-Integration
 #labels PHI-Minimart
-#Konsep 1000 dari 1 PHI-Integration
 #sidebar DaftarIsi
 
 = Perkenalan =
