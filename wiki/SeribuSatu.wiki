@@ -42,7 +42,7 @@ Mari kita beralih dari mental *konsumtif = mental pengen download aja* menjadi *
 = Kebutuhan Saat Ini =
 
 Berikut adalah kebutuhan proyek saat ini :
-  * [FormulirNamaSupplier Contoh Data Nama Supplier]
+  * [FormulirKontribusiNamaSupplier Contoh Data Nama Supplier]
 
 
 Salam Hangat,
