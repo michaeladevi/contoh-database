@@ -24,6 +24,7 @@ Sangat beragam tentunya, sesuai dengan keahlian kita masing-masing.
 Tidak terpikirkan ? Baiklah... berikut ini adalah beberapa alternatif kontribusi dari penulis wiki ini :
   * Membuat atau memperbaiki artikel dengan tata bahasa dengan penjelasan yang baik sehingga banyak yang terbantu
   * Membuat gambar / ilustrasi yang menunjang artikel untuk menerangkan suatu konsep
+  * Terjemahan artikel
   * Menyumbangkan contoh data walaupun hanya 1 baris data (ingat konsep 1000 dari 1 ?)
   * Memberikan masukan kesalahan atau bug
   * Memberikan ide kepada project owner bagaimana baiknya suatu hal dilakukan
