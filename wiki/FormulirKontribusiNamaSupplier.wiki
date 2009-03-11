@@ -28,4 +28,3 @@ Kemungkinan Kombinasi :
 
 <wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1100"/>
 
-[http://www.phi-integration.com phi-integration]

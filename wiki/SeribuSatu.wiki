@@ -45,9 +45,3 @@ Mari kita beralih dari mental *konsumtif = mental pengen download aja* menjadi *
 Berikut adalah kebutuhan proyek saat ini :
   * [FormulirKontribusiNamaSupplier Contoh Data Nama Supplier]
 
-
-Salam Hangat,
-
-Feris <br />
-
-[http://www.phi-integration.com phi-integration]
