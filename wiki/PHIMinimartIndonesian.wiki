@@ -51,6 +51,8 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * Generasi data untuk transaksi penjualan sederhana (tanpa nomor faktur) menggunakan [http://kettle.pentaho.org Kettle]
   * Difokuskan hanya ke sejumlah cabang untuk memperkecil ukuran database (realisasi : 3 cabang)
 
+http://lh6.ggpht.com/_ofnZnO0EGzU/ScjzQC19N5I/AAAAAAAABLc/Su70_XkzyP0/s640/kettle_phi_minimart_v01.png
+
 ==Tahap 2==
   * Penyelesaian *_master table_* yang berorientasi ke rantai pasokan / _supply chain_ (vendor, gudang, barcode / kode UPC, dan sebagainya)
   * Perbaikan nama supplier supaya lebih "natural"
