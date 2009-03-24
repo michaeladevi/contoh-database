@@ -32,6 +32,7 @@ Tidak terpikirkan ? Baiklah... berikut ini adalah beberapa alternatif kontribusi
   * Membuat tandingan / forking project ini
   * Melakukan hack dan menginformasikan kepada publik dan juga owner :p
   * Menggunakannya sehari-hari
+  * Berpartisipasi di forum 
   * dan lain sebagainya
 
 = Bagaimana Caranya Terlibat ?=
@@ -44,4 +45,3 @@ Mari kita beralih dari mental *konsumtif = mental pengen download aja* menjadi *
 
 Berikut adalah kebutuhan proyek saat ini :
   * [FormulirKontribusiNamaSupplier Contoh Data Nama Supplier]
-
