@@ -1,7 +1,7 @@
 #summary Daftar Isi Wiki SampleData.
 #labels Featured
 #sidebar DaftarIsi
-==Daftar Isi Wiki==
+[http://www.openclipart.org/image/250px/svg_to_png/kugel-orange001-rahmen.png]==Daftar Isi Wiki==
   * [PHIMinimartIndonesian PHI-Minimart]
     * [PHIMinimartEER Skema EER]
     * [FormulirKontribusiNamaSupplier Kontribusi : Nama Supplier]
