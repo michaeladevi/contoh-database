@@ -13,9 +13,9 @@ Halaman ini akan berisi placeholder contoh toko electronik fiktif bernama PHI El
 
 =Roadmap=
 
-* Daftar Kontak Supplier
-* Daftar Kota, Kecamatan dan Propinsi
-* Daftar Prefix
-* Penjualan dengan Faktur (Header dan Detail)
-* Daftar Produk
-* Daftar Pabrikan
+  * Daftar Kontak Supplier
+  * Daftar Kota, Kecamatan dan Propinsi
+  * Daftar Prefix
+  * Penjualan dengan Faktur (Header dan Detail)
+  * Daftar Produk
+  * Daftar Pabrikan
