@@ -1,5 +1,21 @@
 #summary PHI Electronic - Contoh Data Toko Elektronik
+#labels Phase-Design
 #sidebar DaftarIsi
 
 =Daftar Isi=
 <wiki:toc max_depth="3" />
+
+=Pendahuluan=
+
+Halaman ini akan berisi placeholder contoh toko electronik fiktif bernama PHI Electronic yang berlokasi di Jakarta.
+
+[http://lh6.ggpht.com/_8On03AA7WEA/TGE5yMksWUI/AAAAAAAAAA0/cVipMFyUWSg/s800/phi-electronic-logo.png]
+
+=Roadmap=
+
+* Daftar Kontak Supplier
+* Daftar Kota, Kecamatan dan Propinsi
+* Daftar Prefix
+* Penjualan dengan Faktur (Header dan Detail)
+* Daftar Produk
+* Daftar Pabrikan
