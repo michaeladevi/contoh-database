@@ -15,7 +15,7 @@ Halaman ini akan berisi placeholder contoh toko electronik fiktif bernama PHI El
 
   * Daftar Kontak Supplier
   * Daftar Kota, Kecamatan dan Propinsi
-  * Daftar Prefix
+  * Master Prefix Nomor Kontak
   * Penjualan dengan Faktur (Header dan Detail)
   * Daftar Produk
   * Daftar Pabrikan
