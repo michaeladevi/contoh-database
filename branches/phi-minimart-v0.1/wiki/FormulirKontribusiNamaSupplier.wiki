@@ -1,0 +1,29 @@
+#summary Formulir Kontribusi Nama Supplier.
+#labels PHI-Minimart,Featured
+#sidebar DaftarIsi
+=Daftar Isi=
+<wiki:toc max_depth="1" />
+
+= Kontribusi Nama Supplier =
+
+Sampai saat ini nama supplier / pemasok untuk contoh data *[PHIMinimartIndonesian PHI-Minimart]* masih berupa format *Supplier-Kota-!NomorUrut*. Untuk contohnya dapat dilihat di  file [http://code.google.com/p/sampledata/source/browse/trunk/phi-minimart/phi_integration_supplier.csv?r=4 phi_integration_supplier.csv Release 4] (Lihat Gambar). 
+
+Untuk memperbaiki data ini supaya lebih "natural" kami butuh kontribusi text "nama depan, tengah dan akhir" dari supplier  yang nantinya akan dikombinasi silang dengan pasangan nama lainnya.
+
+----
+http://lh6.ggpht.com/_ofnZnO0EGzU/SYhQ6Q5cvpI/AAAAAAAABDE/7TvmotMke_4/s720/masalah_nama_supplier.png
+----
+
+
+Contoh : 
+  * Kontribusi 1 : Galaksi Bima Sakti
+  * Kontribusi 2 : Bumi Planet Hijau
+
+Kemungkinan Kombinasi :
+  * Kombinasi 1 : Galaksi Planet Sakti
+  * Kombinasi 2 : Planet Bima Hijau
+  * dstnya.....
+
+= Formulir Pengisian =
+
+<wiki:gadget url="http://sampledata.googlecode.com/svn/gadget/formulirkontribusinamasupplier.xml" width="650" height="1100"/>
