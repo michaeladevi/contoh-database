@@ -13,9 +13,27 @@ Halaman ini akan berisi placeholder contoh toko electronik fiktif bernama PHI El
 
 =Roadmap=
 
-  * Daftar Kontak Supplier
-  * Daftar Kota, Kecamatan dan Propinsi
+  * ~~Daftar Kontak Supplier~~ (Cancelled)
+  * Daftar Kota, ~~Kecamatan~~ dan Propinsi 
   * Master Prefix Nomor Kontak
   * Penjualan dengan Faktur (Header dan Detail)
   * Daftar Produk
   * Daftar Pabrikan
+
+Rincian daftar sheet yang telah dirancang per 10 September 2010 adalah sebagai berikut :
+  * Province (Structure & Data Population)
+  * City (Structure & Data Population)
+  * Customer (Structure & Data Population)
+  * Employees (Structure)
+  * Product Category (Structure & Data Population)
+  * Product (Structure)
+  * Brand (Structure & Data Population)
+  * Price (Structure)
+  * Mobile Operator (Structure & Data Population)
+  * Mobile Prefix (Structure & Data Population)
+  * Sales Order - Header (Structure)
+  * Sales Order - Detail (Structure)
+  * Case Category (Structure)
+  * Cases (Structure)
+
+Lihat revisi 198 : [http://code.google.com/p/contoh-database/source/detail?r=198 http://code.google.com/p/contoh-database/source/detail?r=198]
