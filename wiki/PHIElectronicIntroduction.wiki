@@ -20,13 +20,13 @@ Halaman ini akan berisi placeholder contoh toko electronik fiktif bernama PHI El
   * Daftar Produk
   * Daftar Pabrikan
 
-Rincian daftar sheet yang telah dirancang per 10 September 2010 adalah sebagai berikut :
+Rincian daftar sheet yang telah dirancang per 22 September 2010 adalah sebagai berikut :
   * Province (Structure & Data Population)
   * City (Structure & Data Population)
   * Customer (Structure & Data Population)
-  * Employees (Structure)
+  * Employees (Structure & Data Population)
   * Product Category (Structure & Data Population)
-  * Product (Structure)
+  * Product (Structure & Data Population)
   * Brand (Structure & Data Population)
   * Price (Structure)
   * Mobile Operator (Structure & Data Population)
