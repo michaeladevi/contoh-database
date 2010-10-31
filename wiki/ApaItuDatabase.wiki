@@ -1,0 +1,5 @@
+#summary Berisi link mengenai penjelasan apa itu database.
+
+= Apa itu Database ? =
+
+Untuk Anda yang masih sangat awam mengenai konsep database relasional dapat melihat tutorial kami di [http://mysql.phi-integration.com/apa-itu-database http://mysql.phi-integration.com/apa-itu-database]
