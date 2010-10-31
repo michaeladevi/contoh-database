@@ -1,4 +1,5 @@
 #summary Berisi link mengenai penjelasan apa itu database.
+#sidebar DaftarIsi
 
 = Apa itu Database ? =
 
