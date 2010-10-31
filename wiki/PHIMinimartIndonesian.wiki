@@ -44,6 +44,10 @@ PHI-Minimart 0.1 terdiri tabel-tabel berikut :
   * *Tabel Transaksi*
     * *tr_penjualan* : merupakan transaksi penjualan yang mencatat tanggal transaksi, di cabang mana transaksi dilakukan
 
+=Instalasi Di MySQL=
+
+Untuk instalasi di MySQL silahkan kunjungi halaman berikut ini : [http://mysql.phi-integration.com/instalasi/contoh-data-phi-minimart http://mysql.phi-integration.com/instalasi/contoh-data-phi-minimart]
+
 =Roadmap / Tahap Pengembangan=
 
 ==Tahap 1==
