@@ -70,7 +70,7 @@ http://lh6.ggpht.com/_ofnZnO0EGzU/ScjzQC19N5I/AAAAAAAABLc/Su70_XkzyP0/s640/kettl
 
 =Diagram Struktur Table / EER (Extended Entity-Relationship)=
 
-http://lh6.ggpht.com/_ofnZnO0EGzU/SYZh8u9ZP6I/AAAAAAAABBU/aTfKLycMmeU/s720/phi_minimart_oltp.png
+http://contoh-database.googlecode.com/svn/trunk/phi-minimart/images/schema_eerd_from_editor.png
 
 =Download=
 
